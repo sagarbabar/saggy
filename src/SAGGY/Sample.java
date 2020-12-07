@@ -7,6 +7,8 @@ public class Sample {
 		System.out.println("Snehal is Queen of Baramati");
 		
 		System.out.println("Sagar is King of velocity:  oh my god");
+		
+		System.out.println("hadhsafh");
 	}
 
 }
